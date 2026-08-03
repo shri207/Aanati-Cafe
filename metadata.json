@@ -1,0 +1,6 @@
+{
+  "name": "Aanati Cafe",
+  "description": "Luxury boutique café experience in Madhura Nagar, Hyderabad featuring artisanal coffee, gourmet food, cozy ambience, online ordering, and table reservation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
